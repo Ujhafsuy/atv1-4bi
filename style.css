@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.first{
+    margin: 1rem;
+    border: 1px solid blue;
+    width: auto;
+    height: 20rem;
+    padding: 18;
+
+}
+
+.second{
+    margin: auto;
+    border: 5px double red;
+    height: auto;
+    width: 20rem;
+    height: 10rem;
+    padding: 6rem 0 6rem 0;
+}
+
+.third{
+    margin: auto;
+    border: 10px dotted yellow;
+    width: 30rem;
+    height: 15rem;
+    padding: 1rem;
+}
+
+.fourth{
+    width: 40rem;
+    height: 40rem;
+    border: 7px dashed gray;
+    margin: auto;
+    padding: auto;
+}
